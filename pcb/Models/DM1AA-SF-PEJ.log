@@ -1,0 +1,53 @@
+﻿IGES to UG
+! INFO-     NX V2206.7001 / IGES Specification 5.3
+! INFO-      
+! INFO-     Start of Translation: 5-DEC-2022  2:18:56 PM
+! INFO-      
+! STATUS-   Converting Part: D:\projects\hardware\XiAlestePCB\pcb\Models\DM1AA-SF-PEJ.IGS
+! INFO-     SolidWorks IGES file using analytic representation for surfaces         
+! SUMMARY-   
+! SUMMARY-  Summary of Supported IGES Entities in file
+! SUMMARY-   
+! SUMMARY-  Entity Type                    Count
+! SUMMARY-  -----------                    -----
+! SUMMARY-  Line (110/0).................:  5110
+! SUMMARY-  Circular Arc (100/0).........:   816
+! SUMMARY-  B-Spline Curve (126/0-4).....:  5606
+! SUMMARY-  Composite Curve (102/0)......:  1966
+! SUMMARY-  Surface of Rev (120/0).......:   212
+! SUMMARY-  B-Spline Surface (128/0-9)...:   722
+! SUMMARY-  Curve of Surface (142/0).....:   983
+! SUMMARY-  Trimmed Surface (144/0)......:   934
+! SUMMARY-  Trans Matrix (124/0,1,10,12).:   639
+! SUMMARY-  Color Definition (314/0,1)...:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                          16989
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 5-DEC-2022 2:18:57 PM
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 5-DEC-2022  2:18:57 PM
+! INFO-     Degeneracy in b-spline entity 627 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         0.571445 0.378472 0.000000
+! INFO-     Degeneracy in b-spline entity 673 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         0.551034 0.000000 0.000000
+! INFO-     Degeneracy in b-spline entity 3639 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         0.500020 0.469407 0.000000
+! INFO-     Degeneracy in b-spline entity 24315 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         0.814386 0.000000 0.000000
+! INFO-     Filing Part ..: D:\projects\hardware\XiAlestePCB\pcb\Models\DM1AA-SF-PEJ_igs.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     8
+! SUMMARY-  Solid .......................:   934
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            942
+! INFO-      
+! INFO-     End of Translation: 5-DEC-2022  2:19:34 PM
+! INFO-      

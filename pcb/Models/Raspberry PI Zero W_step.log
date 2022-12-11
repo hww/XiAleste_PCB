@@ -1,0 +1,942 @@
+﻿UG to STEP
+! INFO-     NX STEP AP214 - V1980
+! INFO-      
+! INFO-     Start of Translation: 8-NOV-2022  11:45:42 AM
+! INFO-      
+! STATUS-   Converting Part: D:\projects\hardware\xi_aleste_pcb\xialeste_al_v2\Models\Raspberry PI Zero W\Raspberry PI Zero W_step.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: D:\projects\hardware\xi_aleste_pcb\xialeste_al_v2\Models\Raspberry PI Zero W\Raspberry PI Zero W_step.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     7
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             14
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Board.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: micro_usb_connector v17.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             15
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: HDRV40W64P254_2X20_5080X508X838B.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Components.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:    82
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             91
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Micro SD slot.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:    10
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             18
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Mini HDMI.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:    22
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             29
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: shield.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: socket_housing.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: socket_plate.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: terminal.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: CAPC-0402-T0.55-BN.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: CAPC-0603-T0.9-BN.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: INDC-0603.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: INDC-0402.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: CAPC-0805-T0.95-BN.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: CAPC-1206-T1.4-BN.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: RESC-0402.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             11
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: SRN4018.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             13
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Housing.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Shielding.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Housing2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Pin1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Pin2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 8-NOV-2022 11:45:44 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        Raspberry PI Zero W_step.stp
+! SUMMARY-  Date             2022-11-08T11:45:44+03:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v18.1
+! SUMMARY-  Orig_System      SIEMENS PLM Software NX 1984
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        step_merged_ap_schema
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:   3647
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:   5193
+! SUMMARY-  b_spline_curve_with_knots ..................................:    162
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:    239
+! SUMMARY-  b_spline_surface_with_knots ................................:     22
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:    127
+! SUMMARY-  cartesian_point ............................................:  22983
+! SUMMARY-  circle .....................................................:   1556
+! SUMMARY-  closed_shell ...............................................:     37
+! SUMMARY-  conical_surface ............................................:     11
+! SUMMARY-  context_dependent_shape_representation .....................:    119
+! SUMMARY-  conversion_based_unit_and_plane_angle_unit .................:      1
+! SUMMARY-  cylindrical_surface ........................................:    755
+! SUMMARY-  dimensional_exponents ......................................:      1
+! SUMMARY-  direction ..................................................:  17764
+! SUMMARY-  edge_curve .................................................:   9352
+! SUMMARY-  edge_loop ..................................................:   3932
+! SUMMARY-  ellipse ....................................................:     21
+! SUMMARY-  face_bound .................................................:    398
+! SUMMARY-  face_outer_bound ...........................................:   3534
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     24
+! SUMMARY-  item_defined_transformation ................................:    119
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:   7376
+! SUMMARY-  manifold_solid_brep ........................................:     37
+! SUMMARY-  next_assembly_usage_occurrence .............................:    119
+! SUMMARY-  oriented_edge ..............................................:  18704
+! SUMMARY-  plane ......................................................:   2679
+! SUMMARY-  plane_angle_measure_with_unit ..............................:      1
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:     24
+! SUMMARY-  product_context ............................................:     24
+! SUMMARY-  product_definition .........................................:     24
+! SUMMARY-  product_definition_context .................................:     24
+! SUMMARY-  product_definition_formation_with_specified_source .........:     24
+! SUMMARY-  product_definition_shape ...................................:    143
+! SUMMARY-  product_related_product_category ...........................:     24
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:    119
+! SUMMARY-  shape_representation .......................................:     24
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  spherical_surface ..........................................:     50
+! SUMMARY-  surface_of_linear_extrusion ................................:      2
+! SUMMARY-  toroidal_surface ...........................................:      1
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     24
+! SUMMARY-  vector .....................................................:   7378
+! SUMMARY-  vertex_point ...............................................:   5798
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         112600
+! INFO-      
+! INFO-     User interface/default file
+! INFO-     Bspline aprx. value in effect for this translation : 2.540000e-02 mm
+! INFO-      
+! INFO-     Total number of solids input for this translation  :      37
+! INFO-      
+! INFO-     Number of solids processed without problems        :      37
+! INFO-      
+! INFO-     Number of solids with problems output as sheets    :       0
+! INFO-      
+! INFO-     Number of solids not processed                     :       0
+! INFO-      
+! INFO-     End of Translation: 8-NOV-2022  11:45:45 AM
+! INFO-      
+UG to STEP
+! INFO-     NX STEP AP214 - V1980
+! INFO-      
+! INFO-     Start of Translation: 8-NOV-2022  11:45:46 AM
+! INFO-      
+! STATUS-   Converting Part: D:\projects\hardware\xi_aleste_pcb\xialeste_al_v2\Models\Raspberry PI Zero W\Raspberry PI Zero W_step.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: D:\projects\hardware\xi_aleste_pcb\xialeste_al_v2\Models\Raspberry PI Zero W\Raspberry PI Zero W_step.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     7
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             14
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Board.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: micro_usb_connector v17.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             15
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: HDRV40W64P254_2X20_5080X508X838B.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Components.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:    82
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             91
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Micro SD slot.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:    10
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             18
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Mini HDMI.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:    22
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             29
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: shield.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: socket_housing.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: socket_plate.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: terminal.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: CAPC-0402-T0.55-BN.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: CAPC-0603-T0.9-BN.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: INDC-0603.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: INDC-0402.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: CAPC-0805-T0.95-BN.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: CAPC-1206-T1.4-BN.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: RESC-0402.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             11
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: SRN4018.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             13
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Housing.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Shielding.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Housing2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Pin1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: Pin2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 8-NOV-2022 11:45:48 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        Raspberry PI Zero W_step.stp
+! SUMMARY-  Date             2022-11-08T11:45:48+03:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v18.1
+! SUMMARY-  Orig_System      SIEMENS PLM Software NX 1984
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        step_merged_ap_schema
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:   3647
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:   5193
+! SUMMARY-  b_spline_curve_with_knots ..................................:    162
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:    239
+! SUMMARY-  b_spline_surface_with_knots ................................:     22
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:    127
+! SUMMARY-  cartesian_point ............................................:  22983
+! SUMMARY-  circle .....................................................:   1556
+! SUMMARY-  closed_shell ...............................................:     37
+! SUMMARY-  conical_surface ............................................:     11
+! SUMMARY-  context_dependent_shape_representation .....................:    119
+! SUMMARY-  conversion_based_unit_and_plane_angle_unit .................:      1
+! SUMMARY-  cylindrical_surface ........................................:    755
+! SUMMARY-  dimensional_exponents ......................................:      1
+! SUMMARY-  direction ..................................................:  17764
+! SUMMARY-  edge_curve .................................................:   9352
+! SUMMARY-  edge_loop ..................................................:   3932
+! SUMMARY-  ellipse ....................................................:     21
+! SUMMARY-  face_bound .................................................:    398
+! SUMMARY-  face_outer_bound ...........................................:   3534
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     24
+! SUMMARY-  item_defined_transformation ................................:    119
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:   7376
+! SUMMARY-  manifold_solid_brep ........................................:     37
+! SUMMARY-  next_assembly_usage_occurrence .............................:    119
+! SUMMARY-  oriented_edge ..............................................:  18704
+! SUMMARY-  plane ......................................................:   2679
+! SUMMARY-  plane_angle_measure_with_unit ..............................:      1
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:     24
+! SUMMARY-  product_context ............................................:     24
+! SUMMARY-  product_definition .........................................:     24
+! SUMMARY-  product_definition_context .................................:     24
+! SUMMARY-  product_definition_formation_with_specified_source .........:     24
+! SUMMARY-  product_definition_shape ...................................:    143
+! SUMMARY-  product_related_product_category ...........................:     24
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:    119
+! SUMMARY-  shape_representation .......................................:     24
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  spherical_surface ..........................................:     50
+! SUMMARY-  surface_of_linear_extrusion ................................:      2
+! SUMMARY-  toroidal_surface ...........................................:      1
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     24
+! SUMMARY-  vector .....................................................:   7378
+! SUMMARY-  vertex_point ...............................................:   5798
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         112600
+! INFO-      
+! INFO-     User interface/default file
+! INFO-     Bspline aprx. value in effect for this translation : 2.540000e-02 mm
+! INFO-      
+! INFO-     Total number of solids input for this translation  :      37
+! INFO-      
+! INFO-     Number of solids processed without problems        :      37
+! INFO-      
+! INFO-     Number of solids with problems output as sheets    :       0
+! INFO-      
+! INFO-     Number of solids not processed                     :       0
+! INFO-      
+! INFO-     End of Translation: 8-NOV-2022  11:45:48 AM
+! INFO-      
