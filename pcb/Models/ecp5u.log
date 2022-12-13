@@ -1,0 +1,73 @@
+WARNING (line  176) - IBIS files should not contain tab characters.
+WARNING - Model hs1120s040eaaaaaaaou: The [Rising Waveform] 
+      with [R_fixture]=50 Ohms and [V_fixture]=0.6V
+      has TYP column DC endpoints of  0.35V and  0.91v, but
+      an equivalent load applied to the model's I-V tables yields
+      different voltages ( 0.31V and  0.95V),
+      a difference of  6.70% and  6.38%, respectively.
+WARNING - Model hs1120s040eaaaaaaaou: The [Falling Waveform] 
+      with [R_fixture]=50 Ohms and [V_fixture]=0.6V
+      has TYP column DC endpoints of  0.35V and  0.91v, but
+      an equivalent load applied to the model's I-V tables yields
+      different voltages ( 0.31V and  0.95V),
+      a difference of  6.70% and  6.38%, respectively.
+WARNING - Model hs1120s040eaaaaaaaou: The [Rising Waveform] 
+      with [R_fixture]=50 Ohms and [V_fixture_min]=0.571V
+      has MIN column DC endpoints of  0.34V and  0.85v, but
+      an equivalent load applied to the model's I-V tables yields
+      different voltages ( 0.30V and  0.89V),
+      a difference of  6.89% and  6.49%, respectively.
+WARNING - Model hs1120s040eaaaaaaaou: The [Falling Waveform] 
+      with [R_fixture]=50 Ohms and [V_fixture_min]=0.571V
+      has MIN column DC endpoints of  0.34V and  0.85v, but
+      an equivalent load applied to the model's I-V tables yields
+      different voltages ( 0.30V and  0.89V),
+      a difference of  6.89% and  6.49%, respectively.
+WARNING - Model hs1120s040eaaaaaaaou: The [Rising Waveform] 
+      with [R_fixture]=50 Ohms and [V_fixture_max]=0.631V
+      has MAX column DC endpoints of  0.36V and  0.97v, but
+      an equivalent load applied to the model's I-V tables yields
+      different voltages ( 0.31V and  1.01V),
+      a difference of  6.48% and  6.07%, respectively.
+WARNING - Model hs1120s040eaaaaaaaou: The [Falling Waveform] 
+      with [R_fixture]=50 Ohms and [V_fixture_max]=0.631V
+      has MAX column DC endpoints of  0.36V and  0.97v, but
+      an equivalent load applied to the model's I-V tables yields
+      different voltages ( 0.31V and  1.01V),
+      a difference of  6.48% and  6.07%, respectively.
+WARNING - Model hs1120f040eaaaaaaaou: The [Rising Waveform] 
+      with [R_fixture]=50 Ohms and [V_fixture]=0.6V
+      has TYP column DC endpoints of  0.30V and  0.90v, but
+      an equivalent load applied to the model's I-V tables yields
+      different voltages ( 0.30V and  0.95V),
+      a difference of  0.18% and  7.84%, respectively.
+WARNING - Model hs1120f040eaaaaaaaou: The [Falling Waveform] 
+      with [R_fixture]=50 Ohms and [V_fixture]=0.6V
+      has TYP column DC endpoints of  0.30V and  0.90v, but
+      an equivalent load applied to the model's I-V tables yields
+      different voltages ( 0.30V and  0.95V),
+      a difference of  0.18% and  7.84%, respectively.
+WARNING - Model hs1120f040eaaaaaaaou: The [Rising Waveform] 
+      with [R_fixture]=50 Ohms and [V_fixture_min]=0.571V
+      has MIN column DC endpoints of  0.29V and  0.84v, but
+      an equivalent load applied to the model's I-V tables yields
+      different voltages ( 0.29V and  0.89V),
+      a difference of  0.01% and  7.98%, respectively.
+WARNING - Model hs1120f040eaaaaaaaou: The [Falling Waveform] 
+      with [R_fixture]=50 Ohms and [V_fixture_min]=0.571V
+      has MIN column DC endpoints of  0.29V and  0.84v, but
+      an equivalent load applied to the model's I-V tables yields
+      different voltages ( 0.29V and  0.89V),
+      a difference of  0.01% and  7.98%, respectively.
+WARNING - Model hs1120f040eaaaaaaaou: The [Rising Waveform] 
+      with [R_fixture]=50 Ohms and [V_fixture_max]=0.631V
+      has MAX column DC endpoints of  0.31V and  0.95v, but
+      an equivalent load applied to the model's I-V tables yields
+      different voltages ( 0.30V and  1.01V),
+      a difference of  0.45% and  7.51%, respectively.
+WARNING - Model hs1120f040eaaaaaaaou: The [Falling Waveform] 
+      with [R_fixture]=50 Ohms and [V_fixture_max]=0.631V
+      has MAX column DC endpoints of  0.31V and  0.95v, but
+      an equivalent load applied to the model's I-V tables yields
+      different voltages ( 0.30V and  1.01V),
+      a difference of  0.45% and  7.51%, respectively.
