@@ -9,7 +9,7 @@ OpenOutputs=1
 ArchiveProject=0
 TimestampOutput=0
 SeparateFolders=0
-TemplateLocationPath=D:\projects\hardware\XiAlestePCB\pcb-2\Templates\
+TemplateLocationPath=D:\projects\hardware\XiAleste_PCB\pcb\Templates\
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
 AllowPortNetNames=0
@@ -542,23 +542,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
-DocumentPath=xialeste_al_v2.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CQQMNTOG
-
 [ProjectVariant1]
 UniqueID=0DE912C0-1E06-4DFD-AAEF-8EEC741321D1
 Description=Initial
@@ -586,48 +569,48 @@ DocumentPath=xialeste_al_v2.sdf
 DItemRevisionGUID=
 
 [Parameter1]
-Name=G_Address1
-Value=221B Baker Street
+Name=Revision
+Value=r1.0
 
 [Parameter2]
-Name=G_Address2
-Value=hww.github.io
+Name=ProjectTitle2
+Value=Amstrad CPC6128 Replica
 
 [Parameter3]
-Name=G_ApprovedBy
-Value=-
+Name=ProjectTitle1
+Value=Xi Aleste
 
 [Parameter4]
-Name=G_Author
-Value=Valery (hww)
+Name=Organization
+Value=H2W Lab
 
 [Parameter5]
-Name=G_CheckedBy
-Value=-
+Name=Engineer
+Value=Valery
 
 [Parameter6]
-Name=G_DocumentNumber
+Name=DocumentNumber
 Value=XIA2022
 
 [Parameter7]
-Name=G_Engineer
-Value=Valery
+Name=CheckedBy
+Value=-
 
 [Parameter8]
-Name=G_Organization
-Value=Xi Labs
+Name=Author
+Value=Valery (h2w)
 
 [Parameter9]
-Name=G_ProjectTitle1
-Value=Xi Aleste
+Name=ApprovedBy
+Value=-
 
 [Parameter10]
-Name=G_ProjectTitle2
-Value=Amstrad CPC 128 Replica
+Name=Address2
+Value=hww.github.io
 
 [Parameter11]
-Name=G_Revision
-Value=r1.0
+Name=Address1
+Value=221B Baker Street
 
 [Configuration1]
 Name=Sources
