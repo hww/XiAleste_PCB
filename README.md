@@ -88,7 +88,7 @@ The work in progress
 - [ ] FPGA sources
 - [ ] DSP sources
 - [ ] WiFi sources
-- [ ] Z80 software adoptation 
+- [ ] Z80 software adaptation 
 
 # Motivation
 
