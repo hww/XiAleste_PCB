@@ -2,6 +2,8 @@
 
 XiAleste is an 8-bit home computer, which is compatible with software and hardware for the 1985 Amstrad CPC6128. It also has enhanced capabilities. It is intended to appe
 
+![XiAlestePCB](/images/xialeste_pcb_final.jpg)
+
 ## The Concept
 
 The concept of the project was based on the idea of a new version of Amstrad CPC6128 computer - using modern components and up-to-date technology. Subsequently, this concept underwent a number of significant changes. One of these changes was the idea to equip this clone with Aleste extensions.
