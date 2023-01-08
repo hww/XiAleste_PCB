@@ -81,14 +81,14 @@ Each of the available Amstrad extensions will be enabled and disabled by the cor
 
 The work in progress
 
-[x] The main board schematic design
-[x] The main board PCB design
-[ ] The voice board schematic design
-[ ] The voice board PCB design
-[ ] FPGA sources
-[ ] DSP sources
-[ ] WiFi sources
-[ ] Z80 software adoptation 
+- [x] The main board schematic design
+- [x] The main board PCB design
+- [ ] The voice board schematic design
+- [ ] The voice board PCB design
+- [ ] FPGA sources
+- [ ] DSP sources
+- [ ] WiFi sources
+- [ ] Z80 software adoptation 
 
 # Motivation
 
