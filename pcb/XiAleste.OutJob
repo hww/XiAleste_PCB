@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job1.OutJob
+Name=XiAleste.OutJob
 Description=
 TargetOutputMedium=PDF
 VariantName=[No Variations]
@@ -44,7 +44,7 @@ OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
 OutputEnabled1_OutputMedium4=0
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.73|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PrintScaleName=PrintFitPageWidth|PaperKind=A3|PaperIndex=8
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=All SCH Documents
 OutputType2=PCB 3D Print
@@ -63,24 +63,24 @@ Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=66950000|ViewY=66950000|LookAtX=112025000|LookAtY=112225000|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.29200896191187E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=4|ViewConfig= |DocumentPath=D:\projects\hardware\xi_aleste_pcb\xialeste_al_v2\xialeste.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=Project Outputs for Free Documents\Job1.PDF
-ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Free Documents
+OutputFilePath2=D:\projects\hardware\XiAleste_PCB\pcb\Output\XiAleste.PDF
+ReleaseManaged2=0
+OutputBasePath2=Output\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Job1.PDF
+OutputFileName2=XiAleste.PDF
 OutputFileNameMulti2=
-UseOutputNameForMulti2=1
+UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
 OpenOutput2=1
 PromptOverwrite2=1
 PublishMethod2=0
 ZoomLevel2=50
-FitSCHPrintSizeToDoc2=1
-FitPCBPrintSizeToDoc2=1
+FitSCHPrintSizeToDoc2=0
+FitPCBPrintSizeToDoc2=0
 GenerateNetsInfo2=1
 MarkPins2=1
 MarkNetLabels2=1
@@ -89,10 +89,10 @@ GenerateTOC2=1
 ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
-PDFVersion2=Default
+PDFVersion2=1.7
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=
+OutputBasePath3=Project Outputs for xialeste_al_v2
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -105,7 +105,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for xialeste_al_v2
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -142,7 +142,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Project Outputs for Free Documents\Job1.PDF
+RelativeOutputPath2=D:\projects\hardware\XiAleste_PCB\pcb\Output\XiAleste.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
