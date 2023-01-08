@@ -76,3 +76,5 @@ The first two were on the A520. Also the A520 has interlaced scanning, but it ma
 ## Extension Control Register
 
 Each of the available Amstrad extensions will be enabled and disabled by the corresponding bit in the ExtMode register. This will allow any of the extensions to be enabled or disabled to be used or not used in Amstrad.
+
+![ILoveAmstrad](/images/i_love_amstrad_h2w.png)
