@@ -77,4 +77,19 @@ The first two were on the A520. Also the A520 has interlaced scanning, but it ma
 
 Each of the available Amstrad extensions will be enabled and disabled by the corresponding bit in the ExtMode register. This will allow any of the extensions to be enabled or disabled to be used or not used in Amstrad.
 
+# STATUS & TODO
+
+The work in progress
+
+[x] The main board schematic design
+[x] The main board PCB design
+[ ] The voice board schematic design
+[ ] The voice board PCB design
+[ ] FPGA sources
+[ ] DSP sources
+[ ] WiFi sources
+[ ] Z80 software adoptation 
+
+# Motivation
+
 ![ILoveAmstrad](/images/i_love_amstrad_h2w.png)
