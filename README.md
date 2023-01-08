@@ -9,6 +9,7 @@ XiAleste is an 8-bit home computer, which is compatible with software and hardwa
 The concept of the project was based on the idea of a new version of Amstrad CPC6128 computer - using modern components and up-to-date technology. Subsequently, this concept underwent a number of significant changes. One of these changes was the idea to equip this clone with Aleste extensions.
 
 For reference: Aleste 520EX (A520) - is a Russian clone of Amstrad CPC6128 computer, but with some extensions. The main advantage of this computer was its sound capabilities, which were comparable with Amiga 500. The Aleste computer could play 4-channel mod files - it had a sampler synthesizer. Among the disadvantages were the high complexity of the assembly, as well as the very rare components today. Another drawback was that the A520 had two completely incompatible Aleste and CPC modes. That is all cool features of A520 were not available for CPC programs. This was the flaw that I needed to fix first.
+
 Re-reading the book may surprise you with interesting details. But your new interpretations can be even more interesting and dramatically different from previous ones. Along the way, the project changed and its final formula for the new computer, which is called XiAleste, became the following:
 
 - XiAleste is primarily an Amstrad CPC with extensions available to it from the A520.
