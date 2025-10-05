@@ -1,5 +1,10 @@
 # Xi Aleste
 
+![Status](https://img.shields.io/badge/Status-Active%20Development-orange)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![FPGA](https://img.shields.io/badge/FPGA-Lattice%20ECP5-green)
+![Core](https://img.shields.io/badge/Core-Z80%20%2B%20Amstrad%20CPC%20SoC-red)
+
 XiAleste is an 8-bit home computer, which is compatible with software and hardware for the 1985 Amstrad CPC6128. It also has enhanced capabilities. It is intended to appe
 
 ![XiAlestePCB](/images/xialeste_pcb_final.jpg)
@@ -84,13 +89,28 @@ The work in progress
 
 - [x] The main board schematic design
 - [x] The main board PCB design
+- [ ] FPGA sources 
 - [ ] The voice board schematic design
 - [ ] The voice board PCB design
-- [ ] FPGA sources
 - [ ] DSP sources
 - [ ] WiFi sources
 - [ ] Z80 software adaptation 
 
+# FPGA 
+
+- [Aleste LX FPGA](https://github.com/hww/aleste-lx-fpga-sv)
+
 # Motivation
 
 ![ILoveAmstrad](/images/i_love_amstrad_h2w.png)
+
+## The Licensing
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+> **Note on Commercial Use:** This is a project I work on in my free time. If you are interested in using it commercially and would like to support its development, please contact me directly for commercial licensing options.
+
+## 📞 Contact & Discussion
+
+*   **GitHub Issues:** For technical discussions and bugs
+*   **Telegram Channel:** [Join for updates](https://t.me/aleste_lx_dev)
